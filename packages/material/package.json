@@ -1,12 +1,11 @@
 {
-  "name": "@eva-design/material",
+  "name": "@ui-cat/eva-design-material",
   "description": "Eva Design System Material",
   "version": "2.2.0",
   "license": "MIT",
-  "author": "akveo <contact@akveo.com>",
-  "homepage": "https://github.com/eva-design/eva#readme",
-  "repository": "git+https://github.com/eva-design/eva.git",
+  "homepage": "https://github.com/ui-cat/eva#readme",
+  "repository": "git+https://github.com/ui-cat/eva.git",
   "bugs": {
-    "url": "https://github.com/eva-design/eva/issues"
+    "url": "https://github.com/ui-cat/eva/issues"
   }
 }

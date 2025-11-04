@@ -47,5 +47,5 @@ function bumpVersionOfEvaDesignDependencies(pkgJson, dependencies: string) {
 }
 
 function isEvaDependency(dep): boolean {
-  return dep.includes('@eva-design');
+  return dep.includes('@ui-cat');
 }

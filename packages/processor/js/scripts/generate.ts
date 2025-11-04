@@ -27,7 +27,6 @@ export function generateMappingPackage(source: string) {
     name: `@eva-design/${name}-js`,
     version: '0.0.1',
     license: 'MIT',
-    author: 'akveo <contact@akveo.com>',
     homepage: 'https://github.com/eva-design/eva#readme',
     repository: 'git+https://github.com/eva-design/eva.git',
     bugs: {
